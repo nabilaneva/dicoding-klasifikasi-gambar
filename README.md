@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍎🍌🍓 Klasifikasi Gambar Buah dengan CNN dan MobileNetV2
 
 Proyek ini bertujuan untuk mengklasifikasikan gambar buah menjadi 5 kelas: Apel, Pisang, Mangga, Jeruk, dan Stroberi 🍎🍌🥭🍊🍓  
@@ -94,3 +95,6 @@ Strawberry
 - Nama: _[Nabila Neva Rahmawati]_
 - Email: _[nabilanevaaa@gmail.com]_
 - ID Dicoding: _[nabilaneva]_
+=======
+# dicoding-klasifikasi-gambar
+>>>>>>> f1d362aa920e77df60a98a49d1e8cb45d249689a
